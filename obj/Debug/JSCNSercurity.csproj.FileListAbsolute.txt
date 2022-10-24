@@ -1,0 +1,9 @@
+D:\Lap Trinh\ASP.NET CORE\JSCNSercurity\bin\Debug\JSCNSercurity.dll
+D:\Lap Trinh\ASP.NET CORE\JSCNSercurity\bin\Debug\JSCNSercurity.pdb
+D:\Lap Trinh\ASP.NET CORE\JSCNSercurity\bin\Debug\Newtonsoft.Json.dll
+D:\Lap Trinh\ASP.NET CORE\JSCNSercurity\bin\Debug\Newtonsoft.Json.xml
+D:\Lap Trinh\ASP.NET CORE\JSCNSercurity\obj\Debug\JSCNSercurity.csproj.AssemblyReference.cache
+D:\Lap Trinh\ASP.NET CORE\JSCNSercurity\obj\Debug\JSCNSercurity.csproj.CoreCompileInputs.cache
+D:\Lap Trinh\ASP.NET CORE\JSCNSercurity\obj\Debug\JSCNSercurity.csproj.CopyComplete
+D:\Lap Trinh\ASP.NET CORE\JSCNSercurity\obj\Debug\JSCNSercurity.dll
+D:\Lap Trinh\ASP.NET CORE\JSCNSercurity\obj\Debug\JSCNSercurity.pdb
