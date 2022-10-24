@@ -111,7 +111,39 @@ namespace JSCNSercurity
        
     }
     public static class SCN
-    {
+    {      public static bool lowerContain(this string input, string contain)
+        {
+            if (input.ToLower().Contains(contain.ToLower()))
+            {
+                return true;
+            }
+            return false;
+        }
+        public static bool lowerContains(this string input, string contain)
+        {
+            if (input.ToLower().Contains(contain.ToLower()))
+            {
+                return true;
+            }
+            return false;
+        }
+        public static bool upperContain(this string input, string contain)
+        {
+            if (input.ToUpper().Contains(contain.ToUpper()))
+            {
+                return true;
+            }
+            return false;
+        }
+        public static bool upperContains(this string input, string contain)
+        {
+            if (input.ToUpper().Contains(contain.ToUpper()))
+            {
+                return true;
+            }
+            return false;
+        }
+		//
         public static string ReplaceAt(this string str, int index, int length, string replace)
         {
             return str.Remove(index, Math.Min(length, str.Length - index))
